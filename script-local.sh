@@ -1,0 +1,1 @@
+ssh -t -i "first-server.pem" ubuntu@ec2-51-20-52-32.eu-north-1.compute.amazonaws.com "sudo bash ~/deploy.sh"
